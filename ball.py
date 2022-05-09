@@ -1,3 +1,5 @@
+# code copy from the python pygame official website
+
 import sys, pygame
 pygame.init()
 
